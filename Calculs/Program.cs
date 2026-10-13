@@ -60,6 +60,7 @@ namespace Calculs
                         }
                         break;
                     case "2": // multiplication
+                        //ça ne sert ç rien
                         // saisie de la réponse
                         correct = false;
                         while (!correct)
